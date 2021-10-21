@@ -7,8 +7,8 @@
 <img src="assets/MusicPlayerApp.png" width="900"></br></br>
 ## Screenshot
 <p float="left">
-  <img src="assets/ss1.jpg" width="250">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src = "assets/ss2.jpg"  width = "250" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/ss1.jpg" width="250">&nbsp;&nbsp;&nbsp;
+  <img src = "assets/ss2.jpg"  width = "250" >&nbsp;&nbsp;&nbsp;
   <img src="assets/ss3.jpg" width="250">
 </p>  
 - You can view the project in Figma here :</br>https://www.figma.com/file/8t7oc6pIpt6DHXSBb0Wmcd/Music-Player-App?node-id=0%3A1 
