@@ -19,3 +19,4 @@
 - You can view the project in Figma here :</br>https://www.figma.com/file/8t7oc6pIpt6DHXSBb0Wmcd/Music-Player-App?node-id=0%3A1 
 
 
+
