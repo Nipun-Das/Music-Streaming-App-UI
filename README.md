@@ -4,6 +4,7 @@
 - An Elegant UI concept for a Music Streaming App.</br>
 - Ps. I recreated some parts of Spotify.
 <hr>
+
 ## Poster
 <img src="assets/MusicPlayerApp.png" width="900">
 <hr>
