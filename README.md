@@ -5,7 +5,7 @@
 - Ps. I recreated some parts of Spotify.
 <hr>
 
-## Poster
+## Cover
 <img src="assets/MusicPlayerApp.png" width="900">
 <hr>
 
